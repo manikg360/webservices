@@ -1,3 +1,9 @@
+**CONFIG CHANGES**
+
+```
+Go to config.php and change database credentials accordingly.
+```
+
 **DATABASE CHANGES**
 
 ```
